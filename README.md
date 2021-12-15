@@ -92,6 +92,6 @@ Kotlin                   1 repos             █░░░░░░░░░░�
 
 <p align="center">
 
- <img src="https://myoctocat.com/assets/images/base-octocat.svg" alt="buymeapizza" style="vertical-align:top; margin:8px" height="200">
+ <img src="https://myoctocat.com/assets/images/base-octocat.svg" alt="buymeapizza" style="vertical-align:top; margin:8px" height="250">
 
     
