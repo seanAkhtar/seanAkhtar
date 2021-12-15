@@ -123,10 +123,6 @@ Swift                    3 repos             █░░░░░░░░░░�
 </p>
 
 ---
-
-<img src="https://activity-graph.herokuapp.com/graph?username=ukieTux&theme=react-dark#1" width="100%">
-
----
 <h3 align="center">Buy me coffee if you love my works ☕️</h3>
 <p align="center">
   <a href="https://www.buymeacoffee.com/cyberronin" target="_blank">
@@ -136,18 +132,3 @@ Swift                    3 repos             █░░░░░░░░░░�
 <br><br>
 
     © 2021 GitHub, Inc.
-
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
-
--->
