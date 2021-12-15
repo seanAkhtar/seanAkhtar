@@ -3,10 +3,6 @@
 
     Insights
 <!--START_SECTION:waka-->
-<a href = "mailto: usakhtar@pm.me">
-<img src="https://github.com/ukieTux/ukieTux/blob/master/open2work.svg"  height=28  /></a>
-<br/>
-<br/>
 <p align="center">
   <samp>
    Hi 👋🏻,  Its Umer 👽
