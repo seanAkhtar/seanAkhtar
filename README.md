@@ -7,14 +7,14 @@
   <samp>
    Hi 👋🏻,  Its Umer 👽
     <br><br>
-    ⌜Full Time Student 👨🏻‍🎓 〰️ Part Time Breaking Code 🛠 〰️ Code Nerd 👨🏻‍💻 〰️ Mobile Developer 📱 〰️ AR/dApp/Tech Enthusiast 🔥 Runner 🏃🏻⌟
+    ⌜Full Time Student 👨🏻‍🎓 〰️ Nerd 👨🏻‍💻 〰️ Entreprenuer 💡 〰️ Mobile Developer 📱 〰️ AR/dApp/Tech Enthusiast 🔥 〰️ Runner 🏃🏻 〰️ Meditation 🧘🏻‍♂️⌟
   </samp>
 <br><br>
     
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-146-blue)
 
 
-**High speed low drag 🏎** 
+**Connect with me to collabrate on helping make the world a better place 🏎** 
 
 ```text
 🌙 Night                 177 commits        ██████████░░░░░░░░░░░░░░░   40.87% 
