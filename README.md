@@ -25,7 +25,7 @@ Wiki
 Security
 
     Insights
-
+<!--START_SECTION:waka-->
 seanAkhtar/README.md
 @github-actions
 github-actions Updated with Dev Metrics
@@ -51,12 +51,12 @@ History
 
 📊 Weekly Development Breakdown
 
-<!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C317%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
-**I'm an Early 🐤** 
+**High speed low drag 🏎** 
 
 ```text
 🌞 Morning    177 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.05% 
@@ -123,7 +123,7 @@ Swift                    3 repos             █░░░░░░░░░░�
 </p>
 
 ---
-<h3 align="center">Buy me coffee if you love my works ☕️</h3>
+<h3 align="center">Buy me a pizza if you found anything useful 🍕</h3>
 <p align="center">
   <a href="https://www.buymeacoffee.com/cyberronin" target="_blank">
     <img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg" alt="buymeacoffe" style="vertical-align:top; margin:8px" height="36">
