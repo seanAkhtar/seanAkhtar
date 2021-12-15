@@ -9,7 +9,7 @@
 <br/>
 <p align="center">
   <samp>
-   Hi 👋,  Its Umer 👽
+   Hi 👋🏻,  Its Umer 👽
     <br><br>
     ⌜Full Time Student 👨🏻‍🎓 〰️ Part Time Breaking Code 🛠 〰️ Code Nerd 👨🏻‍💻 〰️ Mobile Developer 📱 〰️ AR/dApp/Tech Enthusiast 🔥 Runner 🏃🏻⌟
   </samp>
