@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **seanAkhtar/seanAkhtar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -43,9 +41,9 @@ History
 <br/>
 <p align="center">
   <samp>
-   Hi 👋,  I'm Umer 😎
+   Hi 👋,  Its Umer 👽
     <br><br>
-    ⌜Remote worker 💼 ✖︎ Code Geek 👨‍💻 ✖︎  Mobile Developer 📱 ✖︎ AR/dApp/Tech Enthusiast 🔥⌟
+    ⌜Remote worker 💼 ✖︎ Code Geek 👨‍💻 ✖︎  Mobile Developer 📱 ✖︎ AR/dApp/Tech Enthusiast 🔥 Runner 🏃🏻⌟
   </samp>
 <br><br>
 
@@ -59,10 +57,7 @@ History
 **High speed low drag 🏎** 
 
 ```text
-🌞 Morning    177 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.05% 
-🌆 Daytime    483 commits    █████████░░░░░░░░░░░░░░░░   38.33% 
-🌃 Evening    515 commits    ██████████░░░░░░░░░░░░░░░   40.87% 
-🌙 Night      85 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.75%
+🌙 Night     177 commits    ██████████░░░░░░░░░░░░░░░   40.87% 
 ```
 
 **I Mostly Code in c++** 
@@ -118,7 +113,7 @@ Swift                    3 repos             █░░░░░░░░░░�
 <h3 align="center">Learn more about me! :incoming_envelope:</h3>
 <p align="center">
   <a href="https://linktr.ee/cyber_ronin">
-    <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:4px" height=28>
+    <img src="https://github.com/seanAkhtar/seanAkhtar/blob/main/assets/linktree-1.svg" alt="linktree" style="vertical-align:top; margin:4px" height=28>
   </a>
 </p>
 
