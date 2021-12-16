@@ -7,7 +7,7 @@
   <samp>
    Hi 👋🏻,  Its Umer 👽
     <br><br>
-    ⌜Full Time Student 👨🏻‍🎓 〰️ Nerd 👨🏻‍💻 〰️ Entreprenuer 💡 〰️ Mobile Developer 📱 〰️ AR/dApp/Tech Enthusiast 🔥 〰️ Runner 🏃🏻 〰️ Meditation 🧘🏻‍♂️⌟
+    ⌜👨🏻‍🎓 〰️ 👨🏻‍💻 〰️ 💡 〰️ 📱 〰️ 🔥 〰️ 🏃🏻 〰️ 🧘🏻‍♂️⌟
   </samp>
 <br><br>
     
