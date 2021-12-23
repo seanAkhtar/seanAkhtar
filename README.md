@@ -21,16 +21,7 @@ Swift                    6  repos            ██████░░░░░�
 Java                     5 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
 Kotlin                   1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.29%
 ```
-
-
-
- Last Updated on 12/15/2021
 <!--END_SECTION:waka-->
-  
-  
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=seanAkhtar&count_private=true&show_icons=true)
-
-
 ---
 
 <h3 align="center">Languages and Frameworks 📖</h3>
