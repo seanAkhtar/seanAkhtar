@@ -11,14 +11,7 @@
   </samp>
 <br><br>
     
-![Profile Views](http://img.shields.io/badge/Profile%20Views-146-blue)
-
-
 **Connect with me to collabrate on helping make the world a better place 🏎** 
-
-```text
-🌙 Night                 177 commits        ██████████░░░░░░░░░░░░░░░   40.87% 
-```
 
 **I Mostly Code in C++, Dart & Swift** 
 
@@ -66,7 +59,7 @@ Kotlin                   1 repos             █░░░░░░░░░░�
 
 ---
 
-<h3 align="center">Learn more about me! :incoming_envelope:</h3>
+<h3 align="center">Checkout some of my links :incoming_envelope:</h3>
 <p align="center">
   <a href="https://linktr.ee/cyber_ronin">
     <img src="https://github.com/seanAkhtar/seanAkhtar/blob/main/assets/linktree-1.svg" alt="linktree" style="vertical-align:top; margin:4px" height=28>
