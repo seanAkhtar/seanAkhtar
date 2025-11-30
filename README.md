@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 <p align="center">
   <samp>
-   Hi 👋🏻,  Its U👽
+   👋🏻,  Its U👽
     <br><br>
     ⌜〰️〰️⌟
   </samp>
