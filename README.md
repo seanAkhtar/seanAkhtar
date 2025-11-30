@@ -11,23 +11,13 @@
   </samp>
 <br><br>
     
-**......
-
-**+ &** 
 
 ```text
-C++                                  ███████░░░░░░░░░░░░░░░░░░   28.57% done
-        █░░░░░░░░░░░░░░░░░░░░░░░░  
+                                  ███████░░░░░░░░░░░░░░░░░░   28.57%   
 ```
 <!--END_SECTION:waka-->
 ---
 
-<h3 align="center">Languages and Frameworks </h3>
-<p align="center">
-  <!-- For more icons please follow  https://github.com/ukieTux/ColoredBadges -->
-
-  
-   <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/swift.svg" alt="kotlin" style="vertical-align:top; margin:4px" height=28>
   
 
 ---
@@ -50,6 +40,6 @@ C++                                  ███████░░░░░░░�
 
 <p align="center">
 
- <img src="https://myoctocat.com/assets/images/base-octocat.svg" alt="yo" style="vertical-align:top; margin:8px" height="250">
+>
 
     
