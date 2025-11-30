@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 <p align="center">
   <samp>
-   ya
+   
     <br><br>
     ⌜〰️〰️⌟
   </samp>
