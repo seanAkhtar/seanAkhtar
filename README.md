@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 <p align="center">
   <samp>
-   Hi 👋🏻,  Its Umer 👽
+   Hi 👋🏻,  Its U👽
     <br><br>
     ⌜👨🏻‍🎓 〰️ 👨🏻‍💻 〰️ 💡 〰️ 📱 〰️ 🔥 〰️ 🏃🏻 〰️ 🧘🏻‍♂️⌟
   </samp>
@@ -50,21 +50,8 @@ Kotlin                   1 repos             █░░░░░░░░░░�
 
 ---
 
-<h3 align="center">Checkout some of my links :incoming_envelope:</h3>
-<p align="center">
-  <a href="https://linktr.ee/cyber_ronin">
-    <img src="https://github.com/seanAkhtar/seanAkhtar/blob/main/assets/linktree-1.svg" alt="linktree" style="vertical-align:top; margin:4px" height=28>
-  </a>
-</p>
-
 ---
 
-<h3 align="center">Buy me a pizza if you found anything useful 🍕</h3>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/cyberronin" target="_blank">
-    <img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-2.svg" alt="buymeapizza" style="vertical-align:top; margin:8px" height="36">
-    </a>  
-</p>
 
 ---
 
