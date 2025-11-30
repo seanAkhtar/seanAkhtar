@@ -13,31 +13,29 @@
     
 **......
 
-**I Mostly Code in C++ &** 
+**+ &** 
 
 ```text
-C++                      10 repos            ███████░░░░░░░░░░░░░░░░░░   28.57% 
-        █░░░░░░░░░░░░░░░░░░░░░░░░   4.29%
+C++                                  ███████░░░░░░░░░░░░░░░░░░   28.57% done
+        █░░░░░░░░░░░░░░░░░░░░░░░░  
 ```
 <!--END_SECTION:waka-->
 ---
 
-<h3 align="center">Languages and Frameworks 📖</h3>
+<h3 align="center">Languages and Frameworks </h3>
 <p align="center">
   <!-- For more icons please follow  https://github.com/ukieTux/ColoredBadges -->
 
   
    <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/swift.svg" alt="kotlin" style="vertical-align:top; margin:4px" height=28>
-  <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/flutter.svg" alt="flutter" style="vertical-align:top; margin:4px" height=28>
-  <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/react.svg" alt="react" style="vertical-align:top; margin:4px" height=28>
+  
 
 ---
 
-<h3 align="center">Development Tools 🛠</h3>
+<h3 align="center">Development Tools </h3>
 <p align="center">
 
   <!-- For more icons please follow  https://github.com/ukieTux/ColoredBadges -->
-
   
    <img src="https://github.com/ukieTux/ukieTux/blob/master/assets/mac.svg" alt="mbp2018" style="vertical-align:top; margin:4px" height=28>
 
@@ -48,10 +46,10 @@ C++                      10 repos            ███████░░░░�
 
 ---
 
-<h3 align="center">Thanks for stopping by👋🏻</h3>
+<h3 align="center">..</h3>
 
 <p align="center">
 
- <img src="https://myoctocat.com/assets/images/base-octocat.svg" alt="buymeapizza" style="vertical-align:top; margin:8px" height="250">
+ <img src="https://myoctocat.com/assets/images/base-octocat.svg" alt="yo" style="vertical-align:top; margin:8px" height="250">
 
     
