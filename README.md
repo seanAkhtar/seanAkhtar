@@ -5,15 +5,15 @@
 <!--START_SECTION:waka-->
 <p align="center">
   <samp>
-   👋🏻,  Its U👽
+   ya
     <br><br>
     ⌜〰️〰️⌟
   </samp>
 <br><br>
     
-**.......       🏎** 
+**......
 
-**I Mostly Code in C++ & Ruby** 
+**I Mostly Code in C++ &** 
 
 ```text
 C++                      10 repos            ███████░░░░░░░░░░░░░░░░░░   28.57% 
